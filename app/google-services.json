@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340477333110",
+    "project_id": "juxta-ebfa2",
+    "storage_bucket": "juxta-ebfa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340477333110:android:a93d3a07642bbadb8d1957",
+        "android_client_info": {
+          "package_name": "com.example.juxta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340477333110-au34a1d3d2poqn306dc3oh4hf1fe8bba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB86VYxhhcuOEXizJvly5r9MFAJbAa55c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340477333110-au34a1d3d2poqn306dc3oh4hf1fe8bba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
